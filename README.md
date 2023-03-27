@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 💻 Backend developer
 
-- https://icons8.com.br/icon/9yPfdIAPFYys/laravel-is-a-free%2C-open-source-php-web-framework. I’m currently learning Laravel.
+-	:elephant: I’m currently learning Laravel.
 - 💬  Ask me about PHP, Javascrip or NodeJs.
 -  :busts_in_silhouette:  Take a look at my LinkedIn profile: [linkedin.com/in/tarcisio-santos/](https://www.linkedin.com/in/tarc%C3%ADsio-santos-j%C3%BAnior-b40382115/)
 - ⚡ Fun fact: I have a degree in analysis and systems development.
