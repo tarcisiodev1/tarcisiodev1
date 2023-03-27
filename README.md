@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ### Stats
 
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tarcisiodev1&layout=compact&show_icons=true&theme=dark" />
+<div display="flex">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tarcisiodev1&layout=compact&show_icons=true&theme=dark" />
  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiodev1&layout=compact&langs_count=6&theme=dark&hide=css,scss,html,tex,makefile" />
 </div>
 
