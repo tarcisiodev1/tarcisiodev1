@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 ### 💻 Backend developer
 
-- 🦀 I’m currently learning PHP.
-- 💬  Ask me about Stack Javascript.
+- 🦀 I’m currently learning Laravel.
+- 💬  Ask me about PHP, Javascrip or NodeJs.
+-  :busts_in_silhouette:  Take a look at my LinkedIn profile: [linkedin.com/in/tarcisio-santos/](https://www.linkedin.com/in/tarc%C3%ADsio-santos-j%C3%BAnior-b40382115/)
 - ⚡ Fun fact: I have a degree in analysis and systems development.
 
 <hr />
