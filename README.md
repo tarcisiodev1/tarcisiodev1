@@ -13,5 +13,5 @@
 
 <div>
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tarcisiodev1&layout=compact&show_icons=true&theme=dark" />
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiodev1&layout=compact&langs_count=6&theme=dark&hide=html,scss,tex,makefile" />
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiodev1&layout=compact&langs_count=6&theme=dark&hide=scss,tex,makefile" />
 </div>
