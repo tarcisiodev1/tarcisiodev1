@@ -15,3 +15,4 @@
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tarcisiodev1&layout=compact&show_icons=true&theme=dark" />
  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tarcisiodev1&theme=react&line_height=40&hide=css,scss,tex,makefile" />
 </div>
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiodev1&layout=compact&langs_count=6&theme=dark&hide=html,css,scss,tex,makefile" />
