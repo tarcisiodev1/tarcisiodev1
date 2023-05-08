@@ -12,7 +12,7 @@
 ### Stats
 
 <div>
- <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=tarcisiodev1&show_icons=true&include_all_commits=true&count_private=true&theme=dark&line_height=40" />
- <img height="180em" weight="100em"  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tarcisiodev1&theme=dark&line_height=40&hide=scss,tex,makefile" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=tarcisiodev1&layout=compact&show_icons=true&theme=dark" />
+ <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiodev1&layout=compact&langs_count=6&theme=dark&hide=scss,tex,makefile" />
 </div>
  
