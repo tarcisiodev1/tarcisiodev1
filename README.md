@@ -12,7 +12,7 @@
 ### Stats
 
 <div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiodev1&theme=dracula&layout=compact" alt="Statistics" height="200" /> 
-    <img src="https://github-readme-stats.vercel.app/api?username=tarcisiodev1&theme=dracula&layout=compact" alt="Languages" height="200"   />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisiodev1&theme=dracula&layout=compact" alt="Statistics" height="180" /> 
+    <img src="https://github-readme-stats.vercel.app/api?username=tarcisiodev1&theme=dracula&layout=compact" alt="Languages" height="180"   />
 </div>
  
